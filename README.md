@@ -1,3 +1,15 @@
+# Installation:
+
+Install Miniconda from: https://docs.conda.io/en/latest/miniconda.html
+Use recommended settings.
+
+Place images to create maps for in "input"
+
+Run "generate.cmd"
+
+Maps will be in "output"
+
+
 # Material Map Generator
 
 Easily create AI generated Normal maps, Displacement maps, and Roughness maps.
